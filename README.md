@@ -1,5 +1,5 @@
 # Hand-Written Digit Classification in Python
-The MNIST dataset is a publicly available dataset for handwritten digits. The provided program uses python and existing frameworks to define a model that can predict handwritten digits about 99.3 percent of the time. \
+The MNIST dataset is a publicly available dataset for handwritten digits. The provided program uses python and existing frameworks to define a model that can predict handwritten digits with 99.3% accuracy.\
 
 
 
